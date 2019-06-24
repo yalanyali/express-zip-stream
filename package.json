@@ -1,0 +1,25 @@
+{
+  "name": "express-zip-stream",
+  "description": "create and stream zip files to the browser.",
+  "version": "1.0.1",
+  "dependencies": {
+    "async": "0.9.0",
+    "zip-stream": "2.0.1"
+  },
+  "devDependencies": {
+    "express": "4.17.1"
+  },
+  "keywords": [
+    "express",
+    "zip",
+    "stream"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/yalanyali/express-zip-stream"
+  },
+  "main": "index",
+  "engines": {
+    "node": ">= 0.8"
+  }
+}
